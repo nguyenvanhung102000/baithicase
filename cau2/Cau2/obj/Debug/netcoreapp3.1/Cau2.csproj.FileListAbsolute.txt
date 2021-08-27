@@ -1,0 +1,12 @@
+D:\baithi\cau2\Cau2\bin\Debug\netcoreapp3.1\Cau2.exe
+D:\baithi\cau2\Cau2\bin\Debug\netcoreapp3.1\Cau2.deps.json
+D:\baithi\cau2\Cau2\bin\Debug\netcoreapp3.1\Cau2.runtimeconfig.json
+D:\baithi\cau2\Cau2\bin\Debug\netcoreapp3.1\Cau2.runtimeconfig.dev.json
+D:\baithi\cau2\Cau2\bin\Debug\netcoreapp3.1\Cau2.dll
+D:\baithi\cau2\Cau2\bin\Debug\netcoreapp3.1\Cau2.pdb
+D:\baithi\cau2\Cau2\obj\Debug\netcoreapp3.1\Cau2.AssemblyInfoInputs.cache
+D:\baithi\cau2\Cau2\obj\Debug\netcoreapp3.1\Cau2.AssemblyInfo.cs
+D:\baithi\cau2\Cau2\obj\Debug\netcoreapp3.1\Cau2.csproj.CoreCompileInputs.cache
+D:\baithi\cau2\Cau2\obj\Debug\netcoreapp3.1\Cau2.dll
+D:\baithi\cau2\Cau2\obj\Debug\netcoreapp3.1\Cau2.pdb
+D:\baithi\cau2\Cau2\obj\Debug\netcoreapp3.1\Cau2.genruntimeconfig.cache
